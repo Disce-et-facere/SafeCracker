@@ -1,0 +1,26 @@
+[
+{
+  "directory": "E:/Github/SafeCracker/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Program Files/OpenSSL-Win64/include\" -IE:/Github/SafeCracker/include -g -std=gnu++17 -o CMakeFiles\\safeCracker.dir\\src\\hashManager.cpp.obj -c E:\\Github\\SafeCracker\\src\\hashManager.cpp",
+  "file": "E:\\Github\\SafeCracker\\src\\hashManager.cpp",
+  "output": "CMakeFiles\\safeCracker.dir\\src\\hashManager.cpp.obj"
+},
+{
+  "directory": "E:/Github/SafeCracker/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Program Files/OpenSSL-Win64/include\" -IE:/Github/SafeCracker/include -g -std=gnu++17 -o CMakeFiles\\safeCracker.dir\\src\\packageManager.cpp.obj -c E:\\Github\\SafeCracker\\src\\packageManager.cpp",
+  "file": "E:\\Github\\SafeCracker\\src\\packageManager.cpp",
+  "output": "CMakeFiles\\safeCracker.dir\\src\\packageManager.cpp.obj"
+},
+{
+  "directory": "E:/Github/SafeCracker/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Program Files/OpenSSL-Win64/include\" -IE:/Github/SafeCracker/include -g -std=gnu++17 -o CMakeFiles\\safeCracker.dir\\src\\safeCracker.cpp.obj -c E:\\Github\\SafeCracker\\src\\safeCracker.cpp",
+  "file": "E:\\Github\\SafeCracker\\src\\safeCracker.cpp",
+  "output": "CMakeFiles\\safeCracker.dir\\src\\safeCracker.cpp.obj"
+},
+{
+  "directory": "E:/Github/SafeCracker/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"C:/Program Files/OpenSSL-Win64/include\" -IE:/Github/SafeCracker/include -g -std=gnu++17 -o CMakeFiles\\safeCracker.dir\\src\\threadManager.cpp.obj -c E:\\Github\\SafeCracker\\src\\threadManager.cpp",
+  "file": "E:\\Github\\SafeCracker\\src\\threadManager.cpp",
+  "output": "CMakeFiles\\safeCracker.dir\\src\\threadManager.cpp.obj"
+}
+]
