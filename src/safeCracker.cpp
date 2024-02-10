@@ -49,6 +49,7 @@ public:
             
             std::cout << "Lets Get Crackin..." << std::endl;
             threadManager.startComparison(hashes, sourceFilePath);
+                
         }
     }
 
